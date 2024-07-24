@@ -1,0 +1,12 @@
+{
+  "name": "my-location",
+  "version": "1.0.0",
+  "description": "geo location project",
+  "main": "script.js",
+  "scripts": {
+   "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Shreyansh",
+  "license": "ISC"
+}
