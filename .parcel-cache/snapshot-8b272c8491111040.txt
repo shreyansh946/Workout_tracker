@@ -1,0 +1,21 @@
+20
+89C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\logo.png133661962283230818 0
+92C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\.prettierrc133661962280540700 0
+107C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.04e58e71.js.map133662959454080915 0
+90C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\style.css133662402800763433 0
+89C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\icon.png133661962282405730 0
+103C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\icon.b1b2fa1c.png133662959453605046 0
+85C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist133662959454362530 1
+91C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\index.html133662874775537815 0
+89C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\other.js133662379209803332 0
+93C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\package.json133662037339696476 0
+90C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\script.js133662959451180143 0
+103C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\logo.3eb009db.png133662398323512309 0
+103C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.04e58e71.js133662959453850028 0
+96C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.html133662959453850028 0
+104C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.3a01df49.css133662959453850028 0
+103C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.672d4772.js133662959454011827 0
+105C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\starter.3464ddca.js133662959454011827 0
+108C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.3a01df49.css.map133662959454080915 0
+109C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\starter.3464ddca.js.map133662959454260827 0
+107C:\Users\hp\OneDrive\Pictures\complete-javascript-course-master\15-Mapty\starter\dist\index.672d4772.js.map133662959454333681 0
